@@ -12,9 +12,11 @@ The analysis focuses on:
 
 ---
 
-## 🔹 Dataset Details
+## 🔗 Dataset Source
+[NetFlix](https://www.kaggle.com/datasets/imtkaggleteam/netflix)
 
-- **Dataset Name:** Netflix Titles Dataset  
+## 🔹 Dataset Details
+- **Dataset Name:** NetFlix
 - **Total Records:** 7787  
 
 ### 📁 Features Included
@@ -92,15 +94,6 @@ Used:
 - Dataset contains mostly **unique entries**  
 - Missing values exist in some columns  
 - Netflix shows a **strong global presence**  
-
----
-
-## 🚀 Future Improvements
-- Add more advanced visualizations  
-- Perform sentiment analysis on descriptions  
-- Build recommendation system  
-
----
 
 ## 📌 Conclusion
 This analysis provides insights into Netflix’s content strategy, audience preferences, and global expansion trends.
